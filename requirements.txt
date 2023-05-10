@@ -1,0 +1,2 @@
+# klipper python virtual environment requirements for modular bed
+
